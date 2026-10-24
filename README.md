@@ -5,6 +5,11 @@ Official ARGVUS Dark theme, `tokyo-night`, with its Sticky and Float variants.
 [![CI](https://github.com/argvus/argvus-theme-tokyo-night/actions/workflows/ci.yml/badge.svg)](https://github.com/argvus/argvus-theme-tokyo-night/actions/workflows/ci.yml)
 [![Release](https://github.com/argvus/argvus-theme-tokyo-night/actions/workflows/release.yml/badge.svg)](https://github.com/argvus/argvus-theme-tokyo-night/actions/workflows/release.yml)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
+[![Language: Shell](https://img.shields.io/badge/Shell-POSIX-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Platform: Arch Linux | Wayland](https://img.shields.io/badge/platform-Arch%20Linux%20%7C%20Wayland-1793D1?logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![Pull requests](https://img.shields.io/github/issues-pr/argvus/argvus-theme-tokyo-night)](https://github.com/argvus/argvus-theme-tokyo-night/pulls)
+[![Issues](https://img.shields.io/github/issues/argvus/argvus-theme-tokyo-night)](https://github.com/argvus/argvus-theme-tokyo-night/issues)
+[![Last commit](https://img.shields.io/github/last-commit/argvus/argvus-theme-tokyo-night)](https://github.com/argvus/argvus-theme-tokyo-night/commits/main)
 
 ## Theme identity
 
